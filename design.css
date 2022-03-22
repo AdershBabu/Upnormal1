@@ -1,0 +1,101 @@
+#smlink{
+    
+    height: 20%;
+}
+
+.bg{
+    background-color:rgb(83, 76, 97);
+    padding: 20px;
+}
+#bg1{background-color: #ffff;}
+#b1{
+   
+   background-color: rgba(163, 166, 182, 0.116);
+    
+
+}
+#head{
+    margin-left: 45%;
+    color: #ffff;
+ 
+        
+ }
+
+#contents{
+    
+    font-size:150%;
+   color: rgb(0, 0, 0);
+   background-color: rgb(255, 255, 255);
+   height:10cm;
+   padding-left: 6%;
+   padding-top: 7%;
+   
+} 
+#cont1{
+    color: #ffff;
+    background-color: rgb(86, 90, 95);
+    height: 15cm;
+    padding-top: 10%;
+    padding-left: 6%;
+    font-size:180%;
+}
+.cont{
+    padding: 20px;
+}
+#block1{
+    background-color: #ffff;
+    height: 20cm;
+    padding-top: 10%;
+    padding-left: 7%;
+    font-size:180%;
+}
+#block2{
+    background-color: rgb(86, 90, 95);
+    color: #ffff;
+    height: 20cm;
+    padding-top: 10%;
+    padding-left: 7%;
+    font-size:180%;
+}
+#smlink{
+    background-color: rgb(255, 255, 255);
+    height: 2cm;
+ 
+    padding-left: 40%;
+}
+#tableofcontents{  background-color: rgb(236, 250, 36);
+    height: 15cm;
+    
+    padding-left: 7%;
+    font-size:190%;
+}
+#tech{
+    padding-left: 43.5%;
+    color: rgb(0, 0, 0);
+    background-color: #ffff;
+    height: 3cm;
+}
+#comments{
+    background-color: rgb(223, 250, 48);
+    height: 3cm;
+}
+#comment{
+    height: 2cm;
+    width: 90%;
+    margin-left: .4cm;
+    margin-top: .4cm;
+}
+#feed1{
+    padding-left:40%;
+    background-color: rgb(242, 255, 0);
+}
+#book1{
+    background-color: #ffff;
+    height: 15cm;
+}
+#bookcontents{
+    background-color: rgb(86, 90, 95);
+    height: 10cm;
+    color: #ffff;
+    font-size:30px;
+}
