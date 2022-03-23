@@ -6,7 +6,7 @@ function fun_1(){
 }
 function alert_1(){
     
-    document.getElementById("img1").src='C:/Users/User/Desktop/my website/download.png';
+    document.getElementById("img1").src="C:/Users/User/Desktop/my website/download.png";
      
 
 }
