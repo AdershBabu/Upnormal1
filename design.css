@@ -103,3 +103,6 @@
     background-color: #ffff;
     height: 15cm;
 }
+#grad {
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(110, 250, 10));
+  }
